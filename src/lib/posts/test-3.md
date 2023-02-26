@@ -1,5 +1,5 @@
 ---
-title: Blog Post 3 with a Super Long Title that Keeps Going
+title: Blog Post 3 with a Super Long Title that Keeps Going and an even longer title!
 date: '2022-11-29'
 description: Blog Post 3 Description
 ---
