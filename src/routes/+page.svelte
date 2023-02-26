@@ -12,7 +12,10 @@
       <li class="link">
         <a href={`blog/${post.slug}`}>{post.title}</a>
         <br />
-        {post.date}
+        <div class="postdate">
+          {post.date}
+        </div>
+        {post.description}
       </li>
     {/each}
   </ul>
@@ -37,6 +40,10 @@
     .link {
       text-align: left;
       padding-bottom: 1rem;
+    }
+
+    .postdate {
+      color: #336699;
     }
 
     .links {

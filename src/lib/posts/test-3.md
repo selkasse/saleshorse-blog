@@ -1,25 +1,9 @@
 ---
-title: Blog Post 3 with a Super Long Title that Keeps Going and an even longer title!
-date: '2022-11-29'
-description: Blog Post 3 Description
+title: Getting a Salesforce access token with Postman
+date: '2023-02-25'
+description: Using the Postman API Collection provides a consistent, reusable way to obtain an access token for testing
 ---
 
-A bork's bork is unique, just like the fingerprints of a human.
+At some point in your Salesforce development, you are going to need an access token. Postman provides a reusable way to obtain a token through their API Collection.
 
-Testing <kbd>ENTER</kbd> <code>ENTER</code>
-
-```js
-const okay = (okayString) => {
-  okayString = `${okayString} okay`;
-  console.log(okayString);
-};
-console.log('hiii');
-```
-
-```java
-System.out.println('okay');
-```
-
-```bash
-echo 'hi!'
-```
+**more coming soon!**
