@@ -8,8 +8,6 @@ In this example, we make use of the Salesforce Platform APIs Collection within P
 
 We can think of a Collection as group a pre-configured HTTP requests (`GET`, `POST`, etc.)
 
-Instead of having to remember the parameters of a request, those parameters are saved in a Postman Collection.
-
 As such, the Salesforce Platform APIs Collection has many pre-configured requests. However, we are only concerned with the access token request.
 
 The steps below will illustrate adding the Platform APIs Collection to the Postman application, and then making the access token request.
